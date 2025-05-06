@@ -20,7 +20,7 @@ The dashboard presents the findings through interactive charts, heatmaps, donut 
 
 ## 📸 Screenshot
 
-![Netflix Dashboard](https://github.com/YourUsername/YourRepoName/blob/main/Screenshots/netflix%20analysis.png)
+![netflix analysis.png](https://github.com/YourUsername/YourRepoName/blob/main/Screenshots/netflix%20analysis.png)
 
 > Replace the above URL with your actual GitHub path after uploading the file.
 
