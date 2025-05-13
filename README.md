@@ -22,7 +22,7 @@ The dashboard presents the findings through interactive charts, heatmaps, donut 
 
 ![netflix analysis.png](https://github.com/YourUsername/YourRepoName/blob/main/Screenshots/netflix%20analysis.png)
 
-> Replace the above URL with your actual GitHub path after uploading the file.
+>.
 
 ---
 
@@ -47,4 +47,17 @@ The dashboard presents the findings through interactive charts, heatmaps, donut 
 ---
 
 ## 📂 Repository Structure
+
+---
+
+## 🚀 Getting Started
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/YourUsername/Netflix-Dashboard-Tableau.git
+
+ 
+---
+
+Would you like me to create a **short LinkedIn post caption** to go along with this for portfolio sharing?
 
