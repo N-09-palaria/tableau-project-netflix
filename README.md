@@ -20,7 +20,7 @@ The dashboard presents the findings through interactive charts, heatmaps, donut 
 
 ## 📸 Screenshot
 
-![netflix analysis.png](https://github.com/YourUsername/YourRepoName/blob/main/Screenshots/netflix%20analysis.png)
+![netflix analysis.png]
 
 >.
 
