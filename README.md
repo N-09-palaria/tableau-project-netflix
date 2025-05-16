@@ -18,35 +18,65 @@ The dashboard presents the findings through interactive charts, heatmaps, donut 
 
 ---
 
-## 📸 Screenshot
+## 🚀 Key Features
 
-  (Screenshots/netflix analysis.png)
-
----
-
-## 📊 Dashboard Highlights
-
-- 🔢 **KPIs**: Total Titles, Countries Covered, Average Duration, Total Directors
-- 🌍 **Map**: Geographic content distribution by country
-- 🍿 **Content Type Donut Chart**: Distribution of Movies vs. TV Shows
-- 📆 **Yearly Progression**: Titles added to Netflix by year
-- 🎭 **Top Categories**: Bubble chart of dominant content genres
-- 🏷️ **Content by Rating**: Treemap of content classification (TV-MA, PG-13, etc.)
-- 🎬 **Top 10 Directors**: Bar chart ranking directors by the number of titles
+- 📊 KPI cards: Total Movies, TV Shows, Countries, and Ratings
+- 🌍 Geo Map: Country-wise content distribution
+- 📅 Timeline Chart: Content growth by release year
+- 🎭 Genre Treemap: Most popular content categories
+- 🎞️ Director & Cast Filters: Drill down into key contributors
+- 🧠 User Filters: Dynamic interaction based on Type, Rating, Country, and Year
 
 ---
 
-## 📦 Dataset
+## 🖼️ Screenshot
 
-- **Source**: [Kaggle – Netflix Movies and TV Shows Dataset](https://www.kaggle.com/datasets/shivamb/netflix-shows)
-- **Format**: `.CSV`
-- **Fields**: Title, Director, Country, Release Year, Rating, Duration, Type (Movie/TV Show), Genre, Date Added, etc.
+![Netflix Dashboard]( )
+
+> Replace the link above with the actual path to your image in the repository.
+
+---
+
+## 📁 Dataset
+
+- Source: [Netflix Titles Dataset on Kaggle](https://www.kaggle.com/datasets/shivamb/netflix-shows)
+- Size: ~8,800 rows, CSV format
+- Features: Title, Type, Director, Cast, Country, Rating, Release Year, Date Added, Duration, Genre, Description
+
+---
+
+## 🛠️ Tools Used
+
+- **Tableau Public** – Dashboard creation and data visualization
+- **Excel** – Data cleaning and preprocessing
+- **GitHub** – Project hosting and version control
+
+---
+
+## 🧭 How to Use
+
+1. Download the dataset from [Kaggle](https://www.kaggle.com/datasets/shivamb/netflix-shows)
+2. Clean the data (handle nulls, split duration fields, standardize dates)
+3. Import into Tableau Public/Desktop
+4. Recreate or explore the dashboard using filters and sheets
+5. Optional: Host your version on Tableau Public
+
+---
+
+## 🎯 Business Insights Derived
+
+- 📈 Content spike post-2016, peak in 2019–2020
+- 🌎 USA, India, and UK have highest contributions
+- 👨‍💼 Small group of directors dominate Netflix Originals
+- 🔞 TV-MA and TV-14 ratings dominate Netflix’s library
 
 ---
 
 ## 📂 Repository Structure
 
----
+
+
+
 
 ## 🚀 Getting Started
 
