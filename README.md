@@ -31,7 +31,7 @@ The dashboard presents the findings through interactive charts, heatmaps, donut 
 
 ## 🖼️ Screenshot
 
-![Netflix Dashboard]( )
+![Netflix Dashboard]( https://github.com/N-09-palaria/tableau-project-netflix/blob/main/netflix%20analysis.png)
 
 > Replace the link above with the actual path to your image in the repository.
 
