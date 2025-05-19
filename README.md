@@ -1,4 +1,4 @@
-# tableau-project-
+
 
 # 🎬 Netflix Content Analysis Dashboard – Tableau Project
 
@@ -72,10 +72,6 @@ The dashboard presents the findings through interactive charts, heatmaps, donut 
 
 ---
 
-## 📂 Repository Structure
-
-
-
 
 
 ## 🚀 Getting Started
@@ -86,6 +82,4 @@ The dashboard presents the findings through interactive charts, heatmaps, donut 
 
  
 ---
-
-Would you like me to create a **short LinkedIn post caption** to go along with this for portfolio sharing?
 
